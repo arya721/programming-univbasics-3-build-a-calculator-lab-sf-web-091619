@@ -15,7 +15,11 @@ num1 * num2
 end
 
 def modulo(num1, num2)
+<<<<<<< HEAD
 num1 % num2
+=======
+modulo(num1, num2)
+>>>>>>> d1b7f8e4f27ade49f6879dd83731557b5c23e5b3
 end
 
 def square_root(num1)
