@@ -18,3 +18,7 @@
   def modulo(a,b)
     sum = a - b
   end
+
+  def square_root(a)
+    a // b
+  end
