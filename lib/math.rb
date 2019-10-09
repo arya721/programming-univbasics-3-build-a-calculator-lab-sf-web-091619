@@ -7,7 +7,7 @@
     a / b
   end
 
-  def substraction(a,b)
+  def subtraction(a,b)
     a-b
   end
 
