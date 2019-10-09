@@ -1,3 +1,3 @@
-  def addition
-    5 + 5
+  def addition(a,b)
+    a+b
   end
